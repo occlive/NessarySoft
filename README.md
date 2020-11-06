@@ -1,6 +1,7 @@
 ### 迅雷X
 
-![迅雷](https://images.cnblogs.com/cnblogs_com/occlive/1876664/o_201105092837xunlei.png)
+
+
 
 
 > 精彩，一下就有
@@ -9,7 +10,7 @@
 
 
 
-### 迅雷影音 for PC
+### <img src="https://cdn.jsdelivr.net/gh/occlive/ImageStore//javabase/video.png"/>迅雷影音 for PC
 
 > 专业播放 尽享精彩
 

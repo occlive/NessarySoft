@@ -1,5 +1,7 @@
 ### 迅雷X
-<img src="![](https://images.cnblogs.com/cnblogs_com/occlive/1876664/o_201105092837xunlei.png)"/>
+
+![迅雷](https://images.cnblogs.com/cnblogs_com/occlive/1876664/o_201105092837xunlei.png)
+
 
 > 精彩，一下就有
 

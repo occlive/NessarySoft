@@ -86,13 +86,17 @@
 
 
 
-### STREAM
+### STEAM
 
 > 畅玩游戏、讨论游戏、创造游戏的终极目的地。
 
-[下载][stream]
+[下载][steam]
 
+### MuMu模拟器
 
+> 脱离手机束缚
+
+[下载][mumu]
 
 
 
@@ -107,5 +111,5 @@
 [xmind]:https://www.xmind.cn/
 [mysql]:https://mysql-front.en.softonic.com/?ex=CORE-117.5
 [sts]:https://spring.io/tools
-
-[stream]:https://store.steampowered.com/about/
+[mumu]:https://mumu.163.com/
+[steam]:https://store.steampowered.com/about/

@@ -1,4 +1,4 @@
-### 迅雷X
+### <img src="https://images.cnblogs.com/cnblogs_com/occlive/1876664/o_201105092837xunlei.png"/>迅雷X
 
 > 精彩，一下就有
 
@@ -38,7 +38,7 @@
 
 
 
-### 7-Zip
+### <img src="https://images.cnblogs.com/cnblogs_com/occlive/1876664/o_2011050927027zip.png"/>7-Zip
 
 > 开源压缩软件
 
@@ -54,7 +54,7 @@
 
 
 
-### Google Chrome
+### <img src="https://images.cnblogs.com/cnblogs_com/occlive/1876664/o_201105092743chrome.png"/>Google Chrome
 
 > 更易用、更安全、更快速。
 
@@ -62,7 +62,7 @@
 
 
 
-### XMind
+### <img src="https://images.cnblogs.com/cnblogs_com/occlive/1876664/o_201105092829xmind.png"/>XMind
 
 > 思如涌泉·成竹在图
 
